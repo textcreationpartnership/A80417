@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true character of a noble gennerall: seen and allowed of by His Excellencie, the Earl of Essex. Written in prose and verse.</title>
+            <author>Cooke, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80417</idno>
+            <idno type="STC">Wing C6044</idno>
+            <idno type="STC">Thomason E52_4</idno>
+            <idno type="STC">ESTC R21642</idno>
+            <idno type="EEBO-CITATION">99871468</idno>
+            <idno type="PROQUEST">99871468</idno>
+            <idno type="VID">155191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155191)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true character of a noble gennerall: seen and allowed of by His Excellencie, the Earl of Essex. Written in prose and verse.</title>
+                  <author>Cooke, William, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: William Cooke.</note>
+                  <note>"The description of envie": p. [6-8].</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 21st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155191:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>The true Character of a Noble GENNERALL: <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een and Allowed of by His Excellencie, The Earl of ESSEX. Written in Proſe and Verſe.</p>
+            <figure>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+               <head>The Earl of <hi>Eſſex.</hi>
+               </head>
+               <figDesc>portrait of the Earl of Essex</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Iohn Hammond,</hi> 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:155191:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>The Epiſtle Dedicatory to His Excellence the Earle of ESSEX.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe Your Excellence, to accept the affectio<g ref="char:EOLhyphen"/>nated tender of your humble ſervant, for why your Noble and Iuditious Honor hath ſtill been held a Patron of the Muſes, a Lover of Arts, and Art<g ref="char:EOLhyphen"/>like Siences, and all good Arts ingenious man attaines to; Let not me then diſpaire, though the first dip of my weak forward Pen aſcend unto ſo high a Dedication, I gently crave it might not meet refection, becauſe it is my love, if ſo, it would quite kill my hopes prepared journey, and that ſacred Mount I now am labouring up, fall from't, and periſh, and made a ſcorne unto the Law<g ref="char:EOLhyphen"/>rell tree, in my deſire to touch it, but noble Nature mixt with gentill Spi<g ref="char:EOLhyphen"/>rits, aſcends like Mirrh unto the ſaving Heavens, and gives the ſame de<g ref="char:EOLhyphen"/>ſire to you on earth, from whoſe favours warmth, I hope my ſpring flouriſh, and theſe few mixt Poems here in Proſe and Verſe, he mildly ſenſured; and my obedient Service, with my love thought free from flattery, to whoſe Noble and Iuditeous ſenſure I recommend them unto Your Excellencies view.</p>
+            <closer>
+               <signed>And deſire to be found, <hi>Your Excellencies moſt humble</hi> Servant, <hi>William Cooke.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_character">
+            <pb facs="tcp:155191:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>The true deſcription of a Noble Generall: <hi>In Proſe and Verſe.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Noble Generall,</hi> by the generall aſſent of the high voice of great Authority, being handed to the Piramide of Honour, over whoſe top the golden Truucheon, and the Verdant Wreath, his worthineſſe as worthily receives, ſhould be juſt ſuch a man as hath it: In which diſcretion ſhewed her Ma<g ref="char:EOLhyphen"/>ſter-piece in calling ſuch a Pillar of the State to their ſecurer and more State ſupportance, for as the lightning cleeres the troubled Aire, when hot contagion mixeth amongſt the Clouds, and gives the Earth a healthier tem<g ref="char:EOLhyphen"/>perature: ſo chooſing of a man whoſe noble minde in all his actions, was his Names expreſſor, The peoples loves, in whoſe hearts hee was wrapt in, choſe themſelves forth to be his followers, forſooke their wives, their children and their ſttates, And when his Drummes beat up old <hi>Englands</hi> March, and waving Enſignes cut the fleeting Aire, Their Airey ſpirits back't their mettled ſteeds. whoſe hot diſdainfull pride champing their burniſh't bits, foame ſnow'd the earth, as ſcorning it ſhould bare them: So diligence ſtill waits upon love, And as a Generall in all his ſtate, the very Pageant of Colloſius warre, being heavens great man, ſhould ſo be heavens good man, as queſtionleſſe he is that weares this charge, for when <hi>Mars</hi> calls him to his maled throne, and with the Plumes of honour crownes his head, acquaints him with his whole artillery, ſhewes him the rules and husbandrie of Warre, brings him through all the cunn<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng la<g ref="char:EOLhyphen"/>borinthes, tells him his Statutes, Lawes, Edicts and Councells: with it the Chriſtians Conſcience, and the care, the golden Plummets of the hearts even ballence, where pure integrity from hearts corrupt, reignes Monarch of the whole Celeſtiall frame, ſhaping his life ſo cleane, ſo white ſo good, that he de<g ref="char:EOLhyphen"/>fies all ſtratagems againſt him, though hell ſhould for him make a <hi>Machivill,</hi> whoſe own hot braine contains the quintiſcence of all that ever from that man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion leapt: Yet the juſt Souldier ſpurnes at him, and that; were all the dangers from the Corners brought, wrap'd up in Whirl-windes, on an Earth quake mounted, and every danger uſher'd with new death, according to the nature of each terrour? yet all this to the Noble Martialiſt, makes not feares breath ſo
+<pb facs="tcp:155191:3"/>
+               <!-- PDF PAGE 69 -->ſtrong to ſhake the ſmalleſt haire upon his head, There is the confidence of honeſty, whoſe Hoaſte reignes under his command, with love: And where his love leads on with good diſcretion, not juſtled by vaine glory, thorough the applauſe of wide-mouth'd rumor, popularity but knows true Martial diſtance to an Inch, how to bring on with courage and with care, And with the ſame care to bring oft againe, to husband lives to cheri<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and repaire the ruines that red warre makes breaches thorough: not he that in a tempeſt hurries men like vio<g ref="char:EOLhyphen"/>lent thunder, burſting through the Clowdes to ſet his Souldiers at a doubtful ſtake, and at one caſt to winne or looſe the ſet to fill the fields with groanes of dying men, and Citie Hoſpitalls with halting Criples, making their deathes and maymes his recreation, and with hoſterities over-ruling ſway, com<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and the<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Loves obedience, tho<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough fear to ſay He this and that did by his Valour, his fame like terrour ſhouting through the eares of thoſe that gives the names of Enemies, ſuch Souldiers are, and men of great eſteem and praiſe, though there be difference in equality: Yet where ſweet mildneſſe ſwayes it is the beſt, and ſhewes him moſt a Gentleman, to whoſe known deſerts, brave worthy Sir, in all things (ſance flattery) I give you but your due.</p>
+         </div>
+         <div type="poem">
+            <head>The ſame in Verſe.</head>
+            <l>WHo mount will to the top of Golden honour,</l>
+            <l>And there diſplay bright fame, and fortunes banner,</l>
+            <l>Muſt be diſcreet, and all his Actions ſuch</l>
+            <l>Envie may tremble his fair Name to touch:</l>
+            <l>'Tis not to ſay I have been here and there,</l>
+            <l>In <hi>Holland'</hi> gainst the <hi>Spaniard</hi> or elſe-where;</l>
+            <l>Where testimonie of his valours ſoe,</l>
+            <l>Hee took a Towne, yet no re strook a blowe.</l>
+            <l>How he was ſhot in ſcaling ſuch a Fort.</l>
+            <l>And how came off, making his paine his ſport;</l>
+            <l>How hee was threatned by the States to be</l>
+            <l>At least an Enſigne for his Chevalrie</l>
+            <l>Such guilded motes, but dance in Souldiers beames,</l>
+            <l>Whoſe praiſe is like a bubble full of Dreames,</l>
+            <l>To this truthes historie of man ſaith ſo,</l>
+            <l>They weare the name of Souldier but, for ſhowe,</l>
+            <l>But ſhaddowes baniſh, for I now diſcry</l>
+            <l>The riſing of the Sunne, whoſe glories high</l>
+            <l>
+               <pb facs="tcp:155191:3"/>
+               <!-- PDF PAGE 69 -->
+There needs no more addition then thy Name</l>
+            <l>To get ovr loves, yet thou hast gotten fame,</l>
+            <l>With it a Title of High <hi>Excellence,</hi>
+            </l>
+            <l>Which doth ſo well become thee in my ſenſe,</l>
+            <l>That it is farre more honour'd in thy wearing,</l>
+            <l>Then is thy goodneſſe by the Titles bearing:</l>
+            <l>Great Sonne of <hi>Warre</hi> and <hi>Love,</hi> put on thy Bayes,</l>
+            <l>Expell <hi>Romes</hi> Idolls, bring home Haltian dayes,</l>
+            <l>That thy bright Fame in this Exchange of Warre.</l>
+            <l>May <hi>ESSEX</hi> Name convert into a Starre,</l>
+            <l>And may it to thoſe <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee not appeare</l>
+            <l>A Meteor to or'e-whelme their hearts with feare,</l>
+            <l>By goodneſſe I hate flattery, and yet my love is ſo,</l>
+            <l>I muſt run thus whether I will or no;</l>
+            <l>I ſhould with Injury abuſe thy Worth,</l>
+            <l>Giving thy High deſerts abortive birth,</l>
+            <l>If I not write my thoughts,</l>
+            <l>For if all that loves thee could or would thus doe,</l>
+            <l>What volumnes could be dedicate to You:</l>
+            <l>If it were otherwiſe Great Sir, bee't knowne,</l>
+            <l>People have hearts that would not thus be ſhowne,</l>
+            <l>For two Conditions guides thee, popular state,</l>
+            <l>Either pure Love, or elſe deteſte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hate.</l>
+            <l>Bigg ſwells the ſailes where the ſtrong gale blowes full,</l>
+            <l>But a ſtill ſilence where affections dull;</l>
+            <l>Honour winnes Fame, either for ſtate or warres,</l>
+            <l>But he moſt merrits venters his for ſcarres.</l>
+            <l>
+               <hi>Boeatus</hi> ſpread not forth her brazen wing.</l>
+            <l>F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther then fame, the name of Souldier ſing,</l>
+            <l>Which Name the Tented field bestowes on Thee;</l>
+            <l>The Gule dipt warre: and brave Artillery:</l>
+            <l>The Fife the Drum and ſhrill <hi>Bellonaes</hi> noate</l>
+            <l>Of warre (great Captaine hath given thee the vote,</l>
+            <l>The Name thy Father had ſurvives in thee,</l>
+            <l>His Love, His Vertue is thy Legaſie.</l>
+         </div>
+         <div type="description_of_envy">
+            <pb facs="tcp:155191:4"/>
+            <!-- PDF PAGE 70 -->
+            <head>The Deſcription of Envie.</head>
+            <p>ENVIE, a monſter who leapt out of Hell, being a brother of the deadly ſeven, can no contentment finde upon the earth, for ſtill his agony in<g ref="char:EOLhyphen"/>creaſeth here ſo that even the locall pit from whence he up aſcended, af<g ref="char:EOLhyphen"/>fords him not worſe torment then the earth, the hiſſing conſort of his Snake<g ref="char:EOLhyphen"/>weath'd head, ſhewes him a brother to fell <hi>Meduſa,</hi> who as his charmed po<g ref="char:EOLhyphen"/>wer, turnes into aſtone and on the ſudden freezeth fleſh and blood into the hardneſſe of a Statue, ſo would he blaſt and ſting to death all living goodneſſe, that he knowes or heares of: for if a nature<g ref="char:punc">▪</g> ſweet as the perfume, the heaven<g ref="char:EOLhyphen"/>ly ſpring breathes ore the Bryery budds give <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſunke eyes of Envie ſuch a viſite, how he flings ſcorching lightning after it, That had his Power entranoe to his will, he would melt the very marrow thorow the bone, ſo thicke his forkt Artillery ſhes after it, Let vertue whiter then the Planners path, meeke as the Dove and harmleſſe as the ſleepe of tender Babes, though all the graces hung like ſtately lemmes to deek the out-ſide of this edifice, and the three ſteps un<g ref="char:EOLhyphen"/>to eternity, the outward ſigne Wart, for the parties knowing, yet what would this availe, o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever ſweeten bitter envie, gaul, but ſtraight he ſhootes reproa<g ref="char:EOLhyphen"/>ches after them, armes, hearts and hands againſt them like his own, ſpotting with infamy that ſilver roabe, that wore a tincture like the morning light, before <hi>Aurora</hi> bluſh'd at <hi>Tytans</hi> riſing ſprings beautie, with the mixture of thoſe flo<g ref="char:EOLhyphen"/>wers that ever ſtrove for ſuperiori<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, the ſpreading Lillie, and the blooming Roſe yet this foul Canker, both il<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hew'd and ſcented, would ſuck the juice of Hemlock from the weeds, mixt with the rancour of her own foul lungs, from her more foul to<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gue to blaſt perfection, wearing her eyes ſo fiery blood-ſhed with her indignation, that where ſhe not prevailes, ſhe turnes that hatred on her hatefull ſelf, and feeds upon her own deteſted Name, <hi>Envie,</hi> who from the breaking of the worlds firſt day, brought her Conſumption even along with her, ſtill bringing with it, till time make his ſtop, and all deſtroying death meet her deſtruction. Let honour, whoſe ever grafted flock ſprung forth ſuch branches, be poſſeſt with Natures whole en<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaſe aſſiſted with the adition of rich Arts be his Helme, ſteered by the higheſt hand, and all his Actions leavyed by a line ſquar'd out of the hand of equity, ſtand he betwixt the Compaſſes two points, ſupported by the Goſpel and the Law, were his deſerts by higheſt powers com<g ref="char:EOLhyphen"/>peelld to advance up to the <hi>Alpes</hi> of State, plum'd Honour, were he Commander of more lives then hair<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and had of every life a care, as great as the preſerving of thoſe blood-branch'd Veines, that iſſue from the crimſon Conduit-head, the bodies fountaine, where the thoughts ſit crownd, even his own heart, yet Envie would ſpit at him, and muſter up ill thoughts to fight againſt him, contempts,
+<pb facs="tcp:155191:4"/>
+               <!-- PDF PAGE 70 -->
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eproaches, infamies and ſcornes, Though goodneſſe dwelleth at the ſigne of greatneſſe, and heavens white finger point him out a man of Saint-like diſpoſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion and of ſufferance, a ſmiler on his injuries with forgiveneſſe, whoſe inward <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncave is a ſchool of pitty, the Maſter good Diſcretion, and his hands both <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>word and Ballance ſwayes, Juſtice with equity, yet all this with his whole <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife guard of heart-loving friends, ſuch as would emptey all their veines dry <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom him, and call new life to aſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em (had they power) can make no bull<g ref="char:EOLhyphen"/>worke to keep Envie out, but he will call his Councell up againſt him. the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wift-wing'd malice arm'd with laſting hate, with all the Synod of Anatomies whoſe Skellitons of skin-o're-covering bones can weare no fleſh, but bloods, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir nouriſhment. Authority and power his hate purſues, grinnes at the pompe and ſtate of Potent Kings, derides all Scepters, Rule or Covernment, and moſt <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ene belcheth where there is leaſt cauſe, yet ſeldome dares this Caniball be ſeen, hees of ſo baſe a coward diſpoſition, but lurkes in corners<g ref="char:punc">▪</g> where he may obſcur'd reigne over his diſturbed ſelf alone Monarch of fretts, of ſelf-devour<g ref="char:EOLhyphen"/>ing hate, if factions ſeede he ſowes, brings forth no fruit, ſo that of all envies the pooreſt, and paies himſelf worſt wages, is baſeſt of all evills, and moſt de<g ref="char:EOLhyphen"/>ſpiſed by goodneſſe.</p>
+         </div>
+         <div type="poem">
+            <head>The ſame in Verſe.</head>
+            <l>SVVell <hi>Envie</hi> till thou burſt: a good mans fence</l>
+            <l>Dare stand thy power and Hell with Innoſence,</l>
+            <l>I ſit above thy Ire, let all thy ſpleene</l>
+            <l>Po<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon thy arrows, make thy point ſo keene,</l>
+            <l>That fortitude nor Fates fell hand,</l>
+            <l>Can ward or Check the power of thy command.</l>
+            <l>What pittie <hi>Lewdneſſe</hi> ſhowes thy hell-borne minde,</l>
+            <l>To be ſo verie braineleſly inclinde,</l>
+            <l>To warre againſt thy ſelf: for wiſe men knowes.</l>
+            <l>Thou often strikſt, but oftner feelſt the blowes.</l>
+            <l>Thou art ever poore ever unfortunate,</l>
+            <l>Nay, be it then, when thou triumphſt in ſtate,</l>
+            <l>Having thy ends: Here's that the world will ſay,</l>
+            <l>Twas <hi>Envie</hi> did it, give the dogg his day.</l>
+            <l>Thou darſt not look the bould man in the face,</l>
+            <l>But Sculk in corners with thy actions baſe,</l>
+            <l>And there in ſecret fight againſt his Name;</l>
+            <l>Wounding his credit, and his worth defame</l>
+            <pb facs="tcp:155191:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:155191:5"/>
+            <!-- PDF PAGE 71 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <l>
+               <pb facs="tcp:155191:6"/>
+               <!-- PDF PAGE 72 -->
+Where ſtill the Noble is, thy baſe aſpect</l>
+            <l>Foames out thy venome, and doth hate direct</l>
+            <l>To poyſon the cleer ſpring, for Envie ſtill</l>
+            <l>Forſakes the valleyes, and climbes up the hill;</l>
+            <l>Shru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bs he regards not, tis the Cedar tree,</l>
+            <l>Heel either ſhake, or ſcorch with infamis:</l>
+            <l>The low grounds lie ſecure, the mountain top,</l>
+            <l>The stormy clowdes doth up in tempest wrap,</l>
+            <l>Hell is all envie, yet nor them nor thee,</l>
+            <l>With all their fiery L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gions can blaſt thee.</l>
+            <l>Fix <hi>Pelion</hi> and <hi>Oſſa,</hi> on whoſe high top,</l>
+            <l>Once more let envie into hell down drop,</l>
+            <l>Blow him about in windes, or let blue fire;</l>
+            <l>Pay Envie for his envie, Hells hot fire</l>
+            <l>Take him from amongſt us, for tis hee</l>
+            <l>With <hi>Englands</hi> blood, writ <hi>Englands</hi> tragedy;</l>
+            <l>Sinke him for ever to the depth of Biſſe,</l>
+            <l>For robbing us of our firme peacefull bliſſe;</l>
+            <l>O once againe may the faire <hi>Olive</hi> tree,</l>
+            <l>The <hi>Parliament</hi> untte vith <hi>Majeſtie:</hi>
+            </l>
+            <l>His Majeſtie with them, that broyles may ceaſe,</l>
+            <l>And welcome <hi>England</hi> to her former Peace;</l>
+            <l>That <hi>Romes</hi> high Babell, with her triple Crown,</l>
+            <l>May fall to raiſe the Protestants renown,</l>
+            <l>That envie ever may forſake this Glime,</l>
+            <l>And each man live under his f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uitfull Vine.</l>
+            <trailer>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>INIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
